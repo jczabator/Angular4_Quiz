@@ -1,0 +1,3369 @@
+{
+  "data": [
+    {
+      "name": "palce pałeczkowate (dobosza):  \r",
+      "answers": [
+        {
+          "name": "towarzyszą przewlekłym chorobom płuc\r",
+          "isCorrect": true
+        },
+        {
+          "name": "często współistnieje z sinicą centralną\r",
+          "isCorrect": true
+        },
+        {
+          "name": "są objawem przewlekłej niewydolności lewokomorowej\r",
+          "isCorrect": false
+        },
+        {
+          "name": "pojawiają się w polyarthritis reumatoidea\r",
+          "isCorrect": false
+        },
+        {
+          "name": "jest szczególną odmianą zrzeszotnienia kości \r",
+          "isCorrect": false
+        },
+        {
+          "name": "może pojawić się w przebiegu włóknikowego zapalenia płuc\r",
+          "isCorrect": false
+        },
+        {
+          "name": "ujawniają się jako paznokcie o kształcie szkła zegarkowego\r",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "name": "nabyta skaza krwotoczna\r",
+      "answers": [
+        {
+          "name": "bywa objawem szkorbutu\r",
+          "isCorrect": true
+        },
+        {
+          "name": "należy do obrazu marskości wątroby\r",
+          "isCorrect": true
+        },
+        {
+          "name": "jej przykładem jest hemofilia\r",
+          "isCorrect": false
+        },
+        {
+          "name": "należy do obrazu białaczki szpikowej ostrej\r",
+          "isCorrect": true
+        },
+        {
+          "name": "należy do obrazu białaczki limfatycznej\r",
+          "isCorrect": false
+        },
+        {
+          "name": "jej objawem bywa metrorrhagia\r",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "name": "zespół wykrzepiania wewnątrznaczyniowego\r",
+      "answers": [
+        {
+          "name": "polega na pojawieniu się licznych zakrzepów przyściennych, zwłaszcza w tętnicach jamy brzusznej\r",
+          "isCorrect": false
+        },
+        {
+          "name": "polega na pojawieniu się licznych zakrzepów przyściennych, zwłaszcza w tętnicach kończyn\r",
+          "isCorrect": false
+        },
+        {
+          "name": "w jego przebiegu narasta poziom trombiny w osoczu\r",
+          "isCorrect": false
+        },
+        {
+          "name": "w jego przebiegu spada sprawność układu makrofagów\r",
+          "isCorrect": true
+        },
+        {
+          "name": "w jego przebiegu pojawiają się objawy skazy krwotocznej\r",
+          "isCorrect": true
+        },
+        {
+          "name": "często pojawia się we wstrząsie\r",
+          "isCorrect": true
+        },
+        {
+          "name": "w jego przebiegu spada poziom trombiny w osoczu\r",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "name": "następstwem krwotoku może być\r",
+      "answers": [
+        {
+          "name": "obecność makrofagów obładowanych hematoidyną\r",
+          "isCorrect": false
+        },
+        {
+          "name": "obecność histiocytów obładowanych hemosyderyną\r",
+          "isCorrect": true
+        },
+        {
+          "name": "jama poudarowa\r",
+          "isCorrect": true
+        },
+        {
+          "name": "odczyn zapalny  z przewagą komórek plazmatycznych\r",
+          "isCorrect": false
+        },
+        {
+          "name": "odczyn zapalny  z przewagą granulocytów kwasochłonnych\r",
+          "isCorrect": false
+        },
+        {
+          "name": "krwiak\r",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "name": "W piorunującej posocznicy meningokokowej (zespole Waterhouse-Friderichsena) spotyka się\r",
+      "answers": [
+        {
+          "name": "objawy zespołu rozsianego wykrzepiania wewnątrznaczyniowego\r",
+          "isCorrect": true
+        },
+        {
+          "name": "wylewy krwi i martwicę rdzenia nadnerczy\r",
+          "isCorrect": true
+        },
+        {
+          "name": "wylewy krwi w korze mózgu\r",
+          "isCorrect": false
+        },
+        {
+          "name": "nacieki zapalne w oponach mózgowych\r",
+          "isCorrect": true
+        },
+        {
+          "name": "splenomegalia\r",
+          "isCorrect": true
+        },
+        {
+          "name": "wykładniki ostrego włóknienia wątroby\r",
+          "isCorrect": false
+        },
+        {
+          "name": "ecchymoses\r",
+          "isCorrect": true
+        },
+        {
+          "name": "petechie\r",
+          "isCorrect": true
+        },
+        {
+          "name": "\f\r",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "name": "nerka wstrząsowa\r",
+      "answers": [
+        {
+          "name": "jest rodzajem ostrej niewydolności niezapalnej nerek\r",
+          "isCorrect": true
+        },
+        {
+          "name": "makroskopowo charakteryzuje się sinymi piramidami i  bledszą częścią korową\r",
+          "isCorrect": true
+        },
+        {
+          "name": "skutkuje pojawieniem się oligurii i anurii\r",
+          "isCorrect": true
+        },
+        {
+          "name": "występuje w niej martwica nabłonka kanalików\r",
+          "isCorrect": true
+        },
+        {
+          "name": "dochodzi w niej do martwicy kłębuszków nerkowych\r",
+          "isCorrect": false
+        },
+        {
+          "name": "skutkuje pojawieniem się poliurii\r",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "name": "do zmian narządowych pojawiających się we wstrząsie należą\r",
+      "answers": [
+        {
+          "name": "niedodma płuc\r",
+          "isCorrect": true
+        },
+        {
+          "name": "obecność błon szklistych w płucach\r",
+          "isCorrect": true
+        },
+        {
+          "name": "martwica kłębuszków nerkowych\r",
+          "isCorrect": false
+        },
+        {
+          "name": "owrzodzenia i nadżerki jelita grubego\r",
+          "isCorrect": true
+        },
+        {
+          "name": "nieżyt zastoinowy błon śluzowych dróg oddechowych\r",
+          "isCorrect": false
+        },
+        {
+          "name": "nieżyt zastoinowy błon śluzowych żołądka\r",
+          "isCorrect": false
+        },
+        {
+          "name": "rozsiana martwica hepatocytów\r",
+          "isCorrect": true
+        },
+        {
+          "name": "przekrwienie śledziony\r",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "name": "thrombus globosus może powstać w przebiegu\r",
+      "answers": [
+        {
+          "name": "phlebothrombosis membri inferioris \r",
+          "isCorrect": false
+        },
+        {
+          "name": "thrombophlebitis membri inferioris\r",
+          "isCorrect": false
+        },
+        {
+          "name": "aneurysma sacciforme aortae\r",
+          "isCorrect": true
+        },
+        {
+          "name": "aneurysma ventriculi sinistri cordis\r",
+          "isCorrect": true
+        },
+        {
+          "name": "fibrillatio atriorum\r",
+          "isCorrect": true
+        },
+        {
+          "name": "diskinesis acuta ventrculi cordis seu aneurysma acutum ventriculi cordis\r",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "name": "typowym źródłem dla powstania zatoru tętnic płucnych jest\r",
+      "answers": [
+        {
+          "name": "splot żylny okołosterczowy\r",
+          "isCorrect": true
+        },
+        {
+          "name": "splot tętniczy okołomaciczny\r",
+          "isCorrect": false
+        },
+        {
+          "name": "żyły głębokie podudzia\r",
+          "isCorrect": true
+        },
+        {
+          "name": "żyły powierzchowne podudzia\r",
+          "isCorrect": true
+        },
+        {
+          "name": "żylaki odbytu\r",
+          "isCorrect": false
+        },
+        {
+          "name": "żyły wątrobowe\r",
+          "isCorrect": true
+        },
+        {
+          "name": "żyły udowe i biodrowe\r",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "name": "Powstała skrzeplina może ulec następującym procesem\r",
+      "answers": [
+        {
+          "name": "elongatio\r",
+          "isCorrect": true
+        },
+        {
+          "name": "emmolitio\r",
+          "isCorrect": true
+        },
+        {
+          "name": "coagulatio\r",
+          "isCorrect": false
+        },
+        {
+          "name": "sequestratio\r",
+          "isCorrect": false
+        },
+        {
+          "name": "organisatio\r",
+          "isCorrect": true
+        },
+        {
+          "name": "recanalisatio\r",
+          "isCorrect": true
+        },
+        {
+          "name": "calcificatio\r",
+          "isCorrect": true
+        },
+        {
+          "name": "infectio\r",
+          "isCorrect": true
+        },
+        {
+          "name": "\f\r",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "name": "Dla amyloidozy wtórnej typu AA (amyloid associated) prawdziwe są stwierdzenia\r",
+      "answers": [
+        {
+          "name": "odkłada się w niej białko ostrej fazy oznaczane skrótem ang. SAA\r",
+          "isCorrect": true
+        },
+        {
+          "name": "odkładają się w niej łańcuchy immonoglobulin\r",
+          "isCorrect": false
+        },
+        {
+          "name": "zajęte są narządy leżące podprzeponowo\r",
+          "isCorrect": true
+        },
+        {
+          "name": "może stanowić powikłanie przewlekłych zapaleń bakteryjnych\r",
+          "isCorrect": true
+        },
+        {
+          "name": "może stanowić powikłanie przewlekłych zapaleń wirusowych\r",
+          "isCorrect": false
+        },
+        {
+          "name": "może stanowić powikłanie przewlekłych zapaleń autoagresyjnych\r",
+          "isCorrect": true
+        },
+        {
+          "name": "może towarzyszyć szpiczakowi mnogiemu i makroglobulinemii Waldenstroma\r",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "name": "Patomorfologiczna diagnostyka skrobiawicy \r",
+      "answers": [
+        {
+          "name": "wykorzystuje zjawisko metachromazji\r",
+          "isCorrect": true
+        },
+        {
+          "name": "wykonywana jest w wycinkach z  odbytu\r",
+          "isCorrect": true
+        },
+        {
+          "name": "wykonywana jest w wycinkach z  języka\r",
+          "isCorrect": false
+        },
+        {
+          "name": "wykonywana jest w wycinkach z  dziąseł\r",
+          "isCorrect": true
+        },
+        {
+          "name": "wykorzystuje zjawisko polichromazji\r",
+          "isCorrect": false
+        },
+        {
+          "name": "wykonywana jest  w biopsji cienkoigłowej nerek\r",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "name": "Dla fibrinoidu pojawiajacego się w martwicy i zwyrodnieniu włóknikowatym prawdziwe są następujące stwierdzenia\r",
+      "answers": [
+        {
+          "name": "wykrywa się go ścianach naczyń żylnych\r",
+          "isCorrect": false
+        },
+        {
+          "name": "pojawia się w naczyniach przeszczepionych narządów\r",
+          "isCorrect": true
+        },
+        {
+          "name": "jego obecność jest jednym z wykładników morfologicznych kolagenoz\r",
+          "isCorrect": true
+        },
+        {
+          "name": "zawiera w swoim składzie immunoglobuliny\r",
+          "isCorrect": true
+        },
+        {
+          "name": "zawiera w swoim składzie mukopolisacharydy kwaśne uwolnione z kolagenu\r",
+          "isCorrect": true
+        },
+        {
+          "name": "zawiera w swoim składzie czynnik C3 dopełniacza\r",
+          "isCorrect": true
+        },
+        {
+          "name": "zawiera w swoim składzie włóknik i włókna kolagenowe\r",
+          "isCorrect": false
+        },
+        {
+          "name": "ulega metachromazji\r",
+          "isCorrect": true
+        },
+        {
+          "name": "występuje jako szczególna postać zwłóknienia w chorobach autoagresyjnych\r",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "name": "Dla degeneratio mucoidea prawdziwe są stwierdzenia\r",
+      "answers": [
+        {
+          "name": "dotyczy tkanek nabłonkowych\r",
+          "isCorrect": false
+        },
+        {
+          "name": "polega na gromadzeniu się mukopolisacharydów obojętnych\r",
+          "isCorrect": false
+        },
+        {
+          "name": "polega na gromadzeniu się mukopolisacharydów kwaśnych oraz obojętnych\r",
+          "isCorrect": false
+        },
+        {
+          "name": "polega na gromadzeniu się mukopolisacharydów kwaśnych \r",
+          "isCorrect": true
+        },
+        {
+          "name": "może dotyczyć ścięgien\r",
+          "isCorrect": true
+        },
+        {
+          "name": "pojawia się w skórze w nadczynności tarczycy\r",
+          "isCorrect": false
+        },
+        {
+          "name": "pojawia się w skórze w niedoczynności  tarczycy\r",
+          "isCorrect": true
+        },
+        {
+          "name": "dotyczy ścian oskrzelików końcowych w astmie\r",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "name": "atrocytosis\r",
+      "answers": [
+        {
+          "name": "jest charakterystyczne dla zespołu nerczycowego\r",
+          "isCorrect": true
+        },
+        {
+          "name": "jest rodzajem zwyrodnienia białkowego\r",
+          "isCorrect": true
+        },
+        {
+          "name": "pojawia się w nabłonkach kanalików nerkowych\r",
+          "isCorrect": true
+        },
+        {
+          "name": "w cytoplazmie komórek pojawiają się ziarnistości które są  powiększonymi lizosomami\r",
+          "isCorrect": true
+        },
+        {
+          "name": "w cytoplazmie komórek pojawiają się ziarnistości które są  powiększonymi mitochondriami\r",
+          "isCorrect": false
+        },
+        {
+          "name": "jest to zwyrodnienie nieodwracalne\r",
+          "isCorrect": false
+        },
+        {
+          "name": "najczęściej dotyczy hepatocytów\r",
+          "isCorrect": false
+        },
+        {
+          "name": "jest charakterystyczne dla mocznicy\r",
+          "isCorrect": false
+        }
+      ]
+    },    
+    {
+      "name": "biopsja aspiracyjna cienkoigłowa\r",
+      "answers": [
+        {
+          "name": "polega na pobraniu igłą strzępka tkankowego oglądanego po zabarwieniu pod mikroskopem\r",
+          "isCorrect": false
+        },
+        {
+          "name": "umożliwia ocenę szczegółów cytologicznych w pobranym materiale\r",
+          "isCorrect": true
+        },
+        {
+          "name": "umożliwia określenie nasilenia procesu zapalnego\r",
+          "isCorrect": false
+        },
+        {
+          "name": "umożliwia ocenę stopnia odróżnicowania nowotworu\r",
+          "isCorrect": true
+        },
+        {
+          "name": "jest elementem badania śródoperacyjnego\r",
+          "isCorrect": false
+        },
+        {
+          "name": "nie wymaga odrębnego protokołu zgody pacjenta\r",
+          "isCorrect": false
+        },
+        {
+          "name": "jest zabiegiem obarczonym możliwością licznych powikłań\r",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "name": "apoptoza\r",
+      "answers": [
+        {
+          "name": "może być zjawiskiem fizjologicznym\r",
+          "isCorrect": true
+        },
+        {
+          "name": "polega na aktywacji  enzymów wewnątrzkomórkowych zależnych od Ca++\r",
+          "isCorrect": true
+        },
+        {
+          "name": "polega na aktywacji białek rodziny Bcl-2 w mitochondriach\r",
+          "isCorrect": true
+        },
+        {
+          "name": "jedną z przyczyn jest brak stymulacji hormonalnej komórek\r",
+          "isCorrect": true
+        },
+        {
+          "name": "w jej trakcie dochodzi do fragmentacji DNA\r",
+          "isCorrect": true
+        },
+        {
+          "name": "w jej trakcie dochodzi do syntezy mRNA\r",
+          "isCorrect": true
+        },
+        {
+          "name": "jej przyczyną mogą być niedobory hormonalne\r",
+          "isCorrect": true
+        },
+        {
+          "name": "wiąże się z reakcją zapalną w otoczeniu\r",
+          "isCorrect": false
+        },
+        {
+          "name": "zapobiega jej produkt genu c-bcl-2\r",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "name": "Typowymi powikłaniami ulcus pepticum chronicum duodeni są\r",
+      "answers": [
+        {
+          "name": "gruczolakorak dwunastnicy\r",
+          "isCorrect": false
+        },
+        {
+          "name": "zapalenie trzustki\r",
+          "isCorrect": true
+        },
+        {
+          "name": "perforacja do jamy otrzewnej\r",
+          "isCorrect": false
+        },
+        {
+          "name": "zniekształcenie opuszki dwunastnicy i jej zwężenie\r",
+          "isCorrect": true
+        },
+        {
+          "name": "Krwawienia do światła przewodu pokarmowego\r",
+          "isCorrect": true
+        },
+        {
+          "name": "zespół złego trawienia\r",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "name": "Dla schorzenia nazywanego  polyposiats hamartomatosa Peutz-Jeghers prawdziwe są następujące stwierdzenia\r",
+      "answers": [
+        {
+          "name": "jest synonimem polipowatosci gruczolakowej rodzinnej jelita grubego\r",
+          "isCorrect": false
+        },
+        {
+          "name": "ma podłoże genetyczne\r",
+          "isCorrect": true
+        },
+        {
+          "name": "chorzy są nosicielami nieprawidłowego genu APC\r",
+          "isCorrect": false
+        },
+        {
+          "name": "pojawiają się przebarwienia dziąseł\r",
+          "isCorrect": true
+        },
+        {
+          "name": "częste są przebarwienia skóry rąk\r",
+          "isCorrect": true
+        },
+        {
+          "name": "w utkaniu polipów obserwuje się mięśnie gładkie\r",
+          "isCorrect": true
+        },
+        {
+          "name": "w obrębie polipów obserwuje się torbiele\r",
+          "isCorrect": false
+        },
+        {
+          "name": "typowym powikłaniem jest niedrożność mechaniczna\r",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "name": "Pseudoinwazja w gruczolaku polipowatym jelita to:\r",
+      "answers": [
+        {
+          "name": "obecność  cew gruczołowych w szypule polipa\r",
+          "isCorrect": true
+        },
+        {
+          "name": "obraz wynikający z \"ukręcenia\" polipa\r",
+          "isCorrect": true
+        },
+        {
+          "name": "przekroczenie błony podstawnej nabłonka w cewach gruczołowych\r",
+          "isCorrect": false
+        },
+        {
+          "name": "bezwzględny stan przedzłośliwy\r",
+          "isCorrect": false
+        },
+        {
+          "name": "względny stan przedzłosliwy\r",
+          "isCorrect": false
+        },
+        {
+          "name": "element obrazu normotypowego rozrostu gruczołowego\r",
+          "isCorrect": false
+        },
+        {
+          "name": "dołączenie się przewlekłego zapalenia wytwórczego w polipie\r",
+          "isCorrect": false
+        }
+      ]
+    },   
+    {
+      "name": "infarctus pallidus nie powstaje w:\r",
+      "answers": [
+        {
+          "name": "ścianie macicy\r",
+          "isCorrect": true
+        },
+        {
+          "name": "gruczole tarczowym\r",
+          "isCorrect": true
+        },
+        {
+          "name": "pęcherzu moczowym\r",
+          "isCorrect": true
+        },
+        {
+          "name": "języku\r",
+          "isCorrect": true
+        },
+        {
+          "name": "mięśniach szkieletowych\r",
+          "isCorrect": true
+        },
+        {
+          "name": "prąciu i łechtaczce\r",
+          "isCorrect": true
+        },
+        {
+          "name": "jelicie\r",
+          "isCorrect": true
+        },
+        {
+          "name": "sterczu\r",
+          "isCorrect": false
+        },
+        {
+          "name": "węzłach chłonnych\r",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "name": "infarctus ruber może powstać w\r",
+      "answers": [
+        {
+          "name": "korze mózgowej\r",
+          "isCorrect": true
+        },
+        {
+          "name": "jelicie\r",
+          "isCorrect": true
+        },
+        {
+          "name": "torbieli jajnika\r",
+          "isCorrect": true
+        },
+        {
+          "name": "płucach\r",
+          "isCorrect": true
+        },
+        {
+          "name": "węzłach chłonnych\r",
+          "isCorrect": false
+        },
+        {
+          "name": "ścianie macicy\r",
+          "isCorrect": false
+        },
+        {
+          "name": "mięśniu szkieletowym\r",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "name": "do przyczyn niedrożności przewodu pokarmowego należy\r",
+      "answers": [
+        {
+          "name": "choroba Hirschprunga\r",
+          "isCorrect": true
+        },
+        {
+          "name": "ileitis terminalis\r",
+          "isCorrect": false
+        },
+        {
+          "name": "choroba Whipple'a\r",
+          "isCorrect": false
+        },
+        {
+          "name": "oxyuriasis\r",
+          "isCorrect": false
+        },
+        {
+          "name": "bezoar\r",
+          "isCorrect": true
+        },
+        {
+          "name": "ascariosis\r",
+          "isCorrect": true
+        },
+        {
+          "name": "strangulatio\r",
+          "isCorrect": true
+        },
+        {
+          "name": "invaginatio\r",
+          "isCorrect": true
+        },
+        {
+          "name": "cysticercosis\r",
+          "isCorrect": false
+        },
+        {
+          "name": "hernia libera\r",
+          "isCorrect": false
+        },
+        {
+          "name": "torsio intestini\r",
+          "isCorrect": true
+        },
+        {
+          "name": "colitis ulcerosa\r",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "name": "składnikami morfologicznymi zmian włóknisto-torbielowatch piersi są\r",
+      "answers": [
+        {
+          "name": "ductectasia\r",
+          "isCorrect": true
+        },
+        {
+          "name": "epithelioplasia\r",
+          "isCorrect": true
+        },
+        {
+          "name": "cystoplasia\r",
+          "isCorrect": true
+        },
+        {
+          "name": "dysplasia\r",
+          "isCorrect": false
+        },
+        {
+          "name": "adenosis\r",
+          "isCorrect": true
+        },
+        {
+          "name": "fibroplasia\r",
+          "isCorrect": true
+        },
+        {
+          "name": "metaplasia apocrinica\r",
+          "isCorrect": true
+        },
+        {
+          "name": "metaplasia planoepitheliale\r",
+          "isCorrect": false
+        },
+        {
+          "name": "adipoplasia\r",
+          "isCorrect": false
+        }
+      ]
+    },   
+    {
+      "name": "Do osteopenii zalicza się\r",
+      "answers": [
+        {
+          "name": "osteoporosis\r",
+          "isCorrect": true
+        },
+        {
+          "name": "osteodysplasia fibrosa (dysplasia fibrosa ossis)\r",
+          "isCorrect": true
+        },
+        {
+          "name": "osteopetrosis\r",
+          "isCorrect": false
+        },
+        {
+          "name": "osteitis deformans Paget\r",
+          "isCorrect": false
+        },
+        {
+          "name": "achondroplasia\r",
+          "isCorrect": false
+        },
+        {
+          "name": "osteogenesis imperfecta\r",
+          "isCorrect": false
+        },
+        {
+          "name": "osteitis fibrosa cystica Reclinghausen\r",
+          "isCorrect": true
+        },
+        {
+          "name": "rachitis\r",
+          "isCorrect": true
+        },
+        {
+          "name": "zmiany kostne w przebiegu choroby Cushinga\r",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "name": "Prawdziwe są następujące stwierdzenia dotyczące osteoporosis\r",
+      "answers": [
+        {
+          "name": "dochodzi do względnego ścieńczenia kości zbitej\r",
+          "isCorrect": true
+        },
+        {
+          "name": "pojawia się rozrzedzenie kości gąbczastej\r",
+          "isCorrect": true
+        },
+        {
+          "name": "maleje stężenie wapnia w tkance kostnej\r",
+          "isCorrect": false
+        },
+        {
+          "name": "ujemny bilans białkowy nasila chorobę\r",
+          "isCorrect": true
+        },
+        {
+          "name": "osoby otyłe częściej cierpią na chorobę\r",
+          "isCorrect": false
+        },
+        {
+          "name": "typowym powikłaniem są złamania trzonów kręgów \r",
+          "isCorrect": true
+        },
+        {
+          "name": "typowym powikłaniem są złamania szyjki kości udowej\r",
+          "isCorrect": true
+        },
+        {
+          "name": "typowym powikłaniem są złamania szyjki kości ramiennej\r",
+          "isCorrect": false
+        },
+        {
+          "name": "choroba jest związana z niedoborem hormonów płciowych\r",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "name": "Do stanów przedzłosliwych w szyjce macicy zalicza się\r",
+      "answers": [
+        {
+          "name": "ovula Nabothi\r",
+          "isCorrect": false
+        },
+        {
+          "name": "koiloctosis\r",
+          "isCorrect": true
+        },
+        {
+          "name": "erosio vera\r",
+          "isCorrect": false
+        },
+        {
+          "name": "polypus cevicalis\r",
+          "isCorrect": false
+        },
+        {
+          "name": "papiloma planoepitheliale\r",
+          "isCorrect": true
+        },
+        {
+          "name": "dysplasia\r",
+          "isCorrect": true
+        },
+        {
+          "name": "endocervicitis\r",
+          "isCorrect": false
+        },
+        {
+          "name": "zakażenie HPV\r",
+          "isCorrect": true
+        },
+        {
+          "name": "zakażenie HSV 2\r",
+          "isCorrect": true
+        },
+        {
+          "name": "metaplasia\r",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "name": "Do pierwotnych nowotworów macicy należą:\r",
+      "answers": [
+        {
+          "name": "leiomyosarcoma\r",
+          "isCorrect": true
+        },
+        {
+          "name": "sarcoma botryoides\r",
+          "isCorrect": true
+        },
+        {
+          "name": "chorionepithelioma\r",
+          "isCorrect": true
+        },
+        {
+          "name": "adenocarcinoma mesonephrogenes\r",
+          "isCorrect": true
+        },
+        {
+          "name": "carcinoma planioepitheliale\r",
+          "isCorrect": true
+        },
+        {
+          "name": "carcinoma adenosquamosum\r",
+          "isCorrect": true
+        },
+        {
+          "name": "sarcoma stromale\r",
+          "isCorrect": true
+        },
+        {
+          "name": "carcinoma clarocellulare\r",
+          "isCorrect": true
+        }
+      ]
+    },   
+    {
+      "name": "Do pierwotnych nowotworów jajnika  należą:\r",
+      "answers": [
+        {
+          "name": "kystadenocarcinoma endometrioides\r",
+          "isCorrect": true
+        },
+        {
+          "name": "kystadenocarcinoma mucinosum\r",
+          "isCorrect": true
+        },
+        {
+          "name": "chorionepithelioma\r",
+          "isCorrect": true
+        },
+        {
+          "name": "fibroadenoma\r",
+          "isCorrect": true
+        },
+        {
+          "name": "kystadenoma serosum\r",
+          "isCorrect": true
+        },
+        {
+          "name": "thecoma\r",
+          "isCorrect": true
+        },
+        {
+          "name": "androblastoma\r",
+          "isCorrect": true
+        },
+        {
+          "name": "dysgerminoma\r",
+          "isCorrect": true
+        },
+        {
+          "name": "cystis dermoidalis\r",
+          "isCorrect": true
+        },
+        {
+          "name": "carcinoid\r",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "name": "Prawdziwe są następujące stwierdzenia w odniesieniu do raka stercza\r",
+      "answers": [
+        {
+          "name": "zdarza się częściej u mężczyzn z niezstąpionym jądrem\r",
+          "isCorrect": false
+        },
+        {
+          "name": "pojawia się najczęściej w strefie obwodowej gruczołu\r",
+          "isCorrect": true
+        },
+        {
+          "name": "najczęściej ma budowę gruczolakoraka śluzotwórczego\r",
+          "isCorrect": false
+        },
+        {
+          "name": "najczęściej ma budowę gruczolakoraka gronkowego\r",
+          "isCorrect": true
+        },
+        {
+          "name": "charakterystyczne są przerzuty do kości\r",
+          "isCorrect": true
+        },
+        {
+          "name": "charakterystyczne jest szerzenie się wzdłuż nerwów\r",
+          "isCorrect": true
+        },
+        {
+          "name": "odróżnicowanie raka ocenia się w pięciostopniowej skali Blooma i Richardsona\r",
+          "isCorrect": false
+        },
+        {
+          "name": "charakterystyczne jest szerzenie się wzdłuż moczowodów\r",
+          "isCorrect": false
+        },
+        {
+          "name": "najczęściej ma budowę raka urotelialnego\r",
+          "isCorrect": false
+        },
+        {
+          "name": "rozpoznanie można ustalić na podstawie biopsji gruboigłowej,\r",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "name": "Charakterystycznymi umiejscowieniami włókniaków i włókniakowatości bywają\r",
+      "answers": [
+        {
+          "name": "pochewki ciał jamistych prącia\r",
+          "isCorrect": true
+        },
+        {
+          "name": "rozcięgno dłoniowe\r",
+          "isCorrect": true
+        },
+        {
+          "name": "rozcięgno podeszwowe\r",
+          "isCorrect": true
+        },
+        {
+          "name": "powięzi okolicy łopatkowej\r",
+          "isCorrect": true
+        },
+        {
+          "name": "powięzi mięśni brzucha\r",
+          "isCorrect": true
+        },
+        {
+          "name": "powięzi w kończynie dolnej\r",
+          "isCorrect": false
+        },
+        {
+          "name": "powięzi w kończynie górnej\r",
+          "isCorrect": false
+        },
+        {
+          "name": "skóra właściwa\r",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "name": "Złośliwymi nowotworami wrzecionowatokomórkowymi są\r",
+      "answers": [
+        {
+          "name": "leiomyosarcoma\r",
+          "isCorrect": true
+        },
+        {
+          "name": "neurilemmoma malignum\r",
+          "isCorrect": true
+        },
+        {
+          "name": "fibrosarcoma\r",
+          "isCorrect": true
+        },
+        {
+          "name": "rhabdomyosarcoma\r",
+          "isCorrect": false
+        },
+        {
+          "name": "carcinoma fusocellulare\r",
+          "isCorrect": true
+        },
+        {
+          "name": "sarcoma synoviale\r",
+          "isCorrect": true
+        },
+        {
+          "name": "osteosarcoma\r",
+          "isCorrect": false
+        },
+        {
+          "name": "dermatofibrosarcoma protuberans et recidivans\r",
+          "isCorrect": false
+        },
+        {
+          "name": "thecoma\r",
+          "isCorrect": false
+        },
+        {
+          "name": "melanoma malignum epithelioides\r",
+          "isCorrect": false
+        }
+      ]
+    },    
+    {
+      "name": "Do odmian histologicznych raków płaskonabłonkowych należą\r",
+      "answers": [
+        {
+          "name": "carcinoma spinocellulare\r",
+          "isCorrect": true
+        },
+        {
+          "name": "carcinoma basocecellulare\r",
+          "isCorrect": true
+        },
+        {
+          "name": "lymphoepithelioma\r",
+          "isCorrect": true
+        },
+        {
+          "name": "carcinoma fusocellulare\r",
+          "isCorrect": true
+        },
+        {
+          "name": "carcinoma urotheliale\r",
+          "isCorrect": false
+        },
+        {
+          "name": "carcinoma verrucosum\r",
+          "isCorrect": true
+        },
+        {
+          "name": "melanoma\r",
+          "isCorrect": false
+        },
+        {
+          "name": "carcinoma microcellulare \r",
+          "isCorrect": false
+        },
+        {
+          "name": "comedocarcinoma\r",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "name": "Melanoma malignum może mieć następujące lokalizacje pierwotne: \r",
+      "answers": [
+        {
+          "name": "skóra\r",
+          "isCorrect": true
+        },
+        {
+          "name": "błona śluzowa jamy ustnej\r",
+          "isCorrect": true
+        },
+        {
+          "name": "błona śluzowa żołądka\r",
+          "isCorrect": false
+        },
+        {
+          "name": "błona śluzowa pochwy i sromu\r",
+          "isCorrect": true
+        },
+        {
+          "name": "błona naczyniowa gałki ocznej\r",
+          "isCorrect": true
+        },
+        {
+          "name": "błona śluzowa odbytu i odbytnicy\r",
+          "isCorrect": true
+        },
+        {
+          "name": "błona śluzowa pęcherzyka żółciowego\r",
+          "isCorrect": false
+        },
+        {
+          "name": "móżdżku\r",
+          "isCorrect": false
+        },
+        {
+          "name": "łożysko paznokcia\r",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "name": "Do powikłań cukrzycy w obrębie układu moczowego i płciowego zalicza się:\r",
+      "answers": [
+        {
+          "name": "candidiasis vaginae\r",
+          "isCorrect": true
+        },
+        {
+          "name": "glomerulosclerosis intercapillaris\r",
+          "isCorrect": true
+        },
+        {
+          "name": "glomerulonephritis membranosa\r",
+          "isCorrect": false
+        },
+        {
+          "name": "pyelonephritis purulenta\r",
+          "isCorrect": true
+        },
+        {
+          "name": "arterio- et arteriolosclerosis renum\r",
+          "isCorrect": true
+        },
+        {
+          "name": "cystitis chronica\r",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "name": "Mikroskopowy obraz tzw. obraz \"gwiaździstego nieba\" (ang. stary sky):\r",
+      "answers": [
+        {
+          "name": "odpowiada licznym, rozpadającym się makrofagom w obrębie węzłów chłonnych\r",
+          "isCorrect": true
+        },
+        {
+          "name": "jest charakterystyczny dla mięsaka Burkitta\r",
+          "isCorrect": true
+        },
+        {
+          "name": "wywołany jest przez liczne immunoblasty w ośrodkach rozmnażania grudek chłonnych\r",
+          "isCorrect": false
+        },
+        {
+          "name": "spotykany jest w śledzionie w przebiegu choroby Hodgkina\r",
+          "isCorrect": false
+        },
+        {
+          "name": "jest manifestacją niektórych zakażeń wirusowych w węzłach chłonnych\r",
+          "isCorrect": false
+        },
+        {
+          "name": "jest określeniem używanym dla zobrazowania typu mieszanokomórkowego ziarnicy złośliwej w węzłach chłonnych\r",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "name": "Komórkami spotykanymi w węzłach chłonnych w typie mieszanokomórkowym ziarnicy złośliwej są\r",
+      "answers": [
+        {
+          "name": "komórki Reed-Sternberga\r",
+          "isCorrect": true
+        },
+        {
+          "name": "komórki wielojądrowe Toutona\r",
+          "isCorrect": false
+        },
+        {
+          "name": "granulocyty kwasochłonne\r",
+          "isCorrect": true
+        },
+        {
+          "name": "komórki zatokowate (lakunarne)\r",
+          "isCorrect": true
+        },
+        {
+          "name": "komórki typu \"ziaren prażonej kukurydzy\" (ang. popcorn cells)\r",
+          "isCorrect": true
+        },
+        {
+          "name": "komórki limfoidalne CD15+ CD20+\r",
+          "isCorrect": true
+        },
+        {
+          "name": "immunoblasty\r",
+          "isCorrect": false
+        },
+        {
+          "name": "plazmocyty\r",
+          "isCorrect": false
+        }
+      ]
+    },    
+    {
+      "name": "Do czynników patogenetycznych zwłóknień płuc zalicza się:\r",
+      "answers": [
+        {
+          "name": "Mycoplasma tuberculosis\r",
+          "isCorrect": true
+        },
+        {
+          "name": "venostasis pulmonum\r",
+          "isCorrect": true
+        },
+        {
+          "name": "silicosis\r",
+          "isCorrect": true
+        },
+        {
+          "name": "bysinosis\r",
+          "isCorrect": false
+        },
+        {
+          "name": "irradiatio\r",
+          "isCorrect": true
+        },
+        {
+          "name": "Pneumocystis carinii\r",
+          "isCorrect": true
+        },
+        {
+          "name": "pneumonia aspirativa\r",
+          "isCorrect": true
+        },
+        {
+          "name": "carnificatio post pleuropneumoniam\r",
+          "isCorrect": true
+        },
+        {
+          "name": "anthracosis\r",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "name": "Do tzw. nowotworów drobnookrągłokomórkowych (ang. small round blue cell tumors) zalicza się \r",
+      "answers": [
+        {
+          "name": "seminoma\r",
+          "isCorrect": true
+        },
+        {
+          "name": "rhabdomyosarcoma embryonale\r",
+          "isCorrect": true
+        },
+        {
+          "name": "lymphoma malignum centrocyticum\r",
+          "isCorrect": true
+        },
+        {
+          "name": "carcinoma microcellulare \r",
+          "isCorrect": true
+        },
+        {
+          "name": "neuroblastoma\r",
+          "isCorrect": true
+        },
+        {
+          "name": "nephroblastoma\r",
+          "isCorrect": true
+        },
+        {
+          "name": "sarcoma Ewing / PNET\r",
+          "isCorrect": true
+        },
+        {
+          "name": "osteosarcoma bene differentiatum\r",
+          "isCorrect": false
+        },
+        {
+          "name": "mesothelioma\r",
+          "isCorrect": false
+        },
+        {
+          "name": "phaeochromocytoma\r",
+          "isCorrect": false
+        },
+        {
+          "name": "fibrosarcoma\r",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "name": "W przypadku podejrzenia przewlekłego zapalenia wątroby polecanym postępowaniem dla ustalenia rozpoznania jest wykonanie\r",
+      "answers": [
+        {
+          "name": "biopsji aspiracyjnej cienkoigłowej\r",
+          "isCorrect": false
+        },
+        {
+          "name": "oligobiopsji operacyjnej miąższu wątroby\r",
+          "isCorrect": false
+        },
+        {
+          "name": "biopsji gruboigłowej miąższu wątroby\r",
+          "isCorrect": true
+        },
+        {
+          "name": "wyłącznie badań biochemicznych krwi AspAt, AlAT, bilirubina, próby wątrobowe\r",
+          "isCorrect": false
+        },
+        {
+          "name": "laparoskopii zwiadowczej\r",
+          "isCorrect": false
+        },
+        {
+          "name": "ultrasonografii jamy brzusznej\r",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "name": "do procedur przydatnych dla ustalenia zakresu i sposobu leczenia w przypadkach naciekającego raka przewodowego piersi należą m.in.:\r",
+      "answers": [
+        {
+          "name": "biopsja aspiracyjna cienkoigłowa guza\r",
+          "isCorrect": true
+        },
+        {
+          "name": "biopsja gruboigłowa guza\r",
+          "isCorrect": true
+        },
+        {
+          "name": "biopsja cienkoigłowa węzłów pachowych\r",
+          "isCorrect": true
+        },
+        {
+          "name": "odczyny immunohistochemiczne (receptory estrogenowe, progesteronowe, HER2)\r",
+          "isCorrect": true
+        },
+        {
+          "name": "cytologia złuszczeniowa wydzieliny z brodawki sutkowej\r",
+          "isCorrect": false
+        },
+        {
+          "name": "badanie mrożakowe wycinka z guza\r",
+          "isCorrect": true
+        }
+      ]
+    },    
+    {
+      "name": "raport z badania histopatologicznego odcinka jelita grubego usuniętego z powodu raka powinien zawierać m.in.\r",
+      "answers": [
+        {
+          "name": "określenie typu histologicznego zmiany\r",
+          "isCorrect": true
+        },
+        {
+          "name": "formę makroskopową guza\r",
+          "isCorrect": true
+        },
+        {
+          "name": "nazwisko technika wykonującego preparaty\r",
+          "isCorrect": false
+        },
+        {
+          "name": "odległość radialną\r",
+          "isCorrect": true
+        },
+        {
+          "name": "opis stanu otrzewnej nad guzem\r",
+          "isCorrect": false
+        },
+        {
+          "name": "liczbę usuniętych węzłów chłonnych\r",
+          "isCorrect": true
+        },
+        {
+          "name": "liczbę  węzłów chłonnych z przerzutami\r",
+          "isCorrect": true
+        },
+        {
+          "name": "wynik barwień specjalnych wykrywających śluz\r",
+          "isCorrect": true
+        },
+        {
+          "name": "wynik barwień immunohistochemicznych na obecność produktu genu APC\r",
+          "isCorrect": false
+        },
+        {
+          "name": "stopień zawansowania zmiany wg klasyfikacji pTNM\r",
+          "isCorrect": true
+        },
+        {
+          "name": "grading stopnia dojrzałości histologicznej\r",
+          "isCorrect": true
+        },
+        {
+          "name": "odległość brzegów guza od granic odcięcia\r",
+          "isCorrect": true
+        },
+        {
+          "name": "opis obrazu histologicznego w liniach odcięcia\r",
+          "isCorrect": true
+        },
+        {
+          "name": "opis obrazu histologicznego krezki\r",
+          "isCorrect": false
+        },
+        {
+          "name": "koszt badania\r",
+          "isCorrect": false
+        },
+        {
+          "name": "datę zakończenia badania\r",
+          "isCorrect": true
+        },
+        {
+          "name": "wymiary guza\r",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "name": "metod cytologii złuszczeniowej można użyć przy wykrywaniu nowotworów\r",
+      "answers": [
+        {
+          "name": "opłucnej\r",
+          "isCorrect": true
+        },
+        {
+          "name": "otrzewnej\r",
+          "isCorrect": true
+        },
+        {
+          "name": "nerek\r",
+          "isCorrect": true
+        },
+        {
+          "name": "wątroby\r",
+          "isCorrect": false
+        },
+        {
+          "name": "jelita cienkiego\r",
+          "isCorrect": false
+        },
+        {
+          "name": "mózgowia\r",
+          "isCorrect": false
+        },
+        {
+          "name": "płuc\r",
+          "isCorrect": true
+        },
+        {
+          "name": "trzonu macicy\r",
+          "isCorrect": false
+        },
+        {
+          "name": "żołądka\r",
+          "isCorrect": true
+        },
+        {
+          "name": "szyjki macicy\r",
+          "isCorrect": true
+        },
+        {
+          "name": "pęcherza moczowego\r",
+          "isCorrect": true
+        },
+        {
+          "name": "sutka\r",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "name": "necrosis colliquativa jest obserwowana w:\r",
+      "answers": [
+        {
+          "name": "śledzionie\r",
+          "isCorrect": false
+        },
+        {
+          "name": "mózgowiu\r",
+          "isCorrect": true
+        },
+        {
+          "name": "rdzeniu kręgowym\r",
+          "isCorrect": true
+        },
+        {
+          "name": "żołądku\r",
+          "isCorrect": true
+        },
+        {
+          "name": "sterczu\r",
+          "isCorrect": false
+        },
+        {
+          "name": "tarczycy\r",
+          "isCorrect": false
+        },
+        {
+          "name": "trzustce\r",
+          "isCorrect": true
+        },
+        {
+          "name": "błonie śluzowej trzonu macicy\r",
+          "isCorrect": false
+        },
+        {
+          "name": "hepatocytach\r",
+          "isCorrect": true
+        }
+      ]
+    },    
+    {
+      "name": "w procesie apoptozy biorą udział  enzymy z następujących grup\r",
+      "answers": [
+        {
+          "name": "kaspazy\r",
+          "isCorrect": true
+        },
+        {
+          "name": "endonukleazy\r",
+          "isCorrect": true
+        },
+        {
+          "name": "transglutaminazy\r",
+          "isCorrect": true
+        },
+        {
+          "name": "katepsyny\r",
+          "isCorrect": false
+        },
+        {
+          "name": "lipazy\r",
+          "isCorrect": false
+        },
+        {
+          "name": "fosfatazy\r",
+          "isCorrect": false
+        },
+        {
+          "name": "peroksydazy\r",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "name": "calcificatio metastatica\r",
+      "answers": [
+        {
+          "name": "pojawia się błonie śluzowej żołądka\r",
+          "isCorrect": true
+        },
+        {
+          "name": "jest obserwowane przy przerzutach nowotworów do kości\r",
+          "isCorrect": true
+        },
+        {
+          "name": "bywa skutkiem przedawkowania witaminy D\r",
+          "isCorrect": true
+        },
+        {
+          "name": "pojawia się przegrodach międzypęcherzykowych\r",
+          "isCorrect": true
+        },
+        {
+          "name": "jest skutkiem nadczynności przytarczyc\r",
+          "isCorrect": true
+        },
+        {
+          "name": "pojawia się w nerkach\r",
+          "isCorrect": true
+        },
+        {
+          "name": "towarzyszy przewlekłemu hiperaldosteronizmowi\r",
+          "isCorrect": true
+        },
+        {
+          "name": "może być obserwowane w układzie bodźcoprzewodzącym\r",
+          "isCorrect": true
+        },
+        {
+          "name": "może towarzyszyć mocznicy\r",
+          "isCorrect": true
+        },
+        {
+          "name": "pojawia się przy poziomie wapnia poniżej 1.2 mEq/l\r",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "name": "niesprawność proteasomów ma znaczenie w rozwoju następujących schorzeń i zwyrodnien\r",
+      "answers": [
+        {
+          "name": "amyloidosis\r",
+          "isCorrect": true
+        },
+        {
+          "name": "cataracta\r",
+          "isCorrect": true
+        },
+        {
+          "name": "arthrocytosis\r",
+          "isCorrect": false
+        },
+        {
+          "name": "lipophanerosis\r",
+          "isCorrect": false
+        },
+        {
+          "name": "choroby prionowe\r",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "name": "wykładnikami morfologicznymi przewlekłej niewydolności prawokomorowej są m.in..\r",
+      "answers": [
+        {
+          "name": "ascites\r",
+          "isCorrect": true
+        },
+        {
+          "name": "varices oesophagii\r",
+          "isCorrect": false
+        },
+        {
+          "name": "venostasis pulmonum\r",
+          "isCorrect": false
+        },
+        {
+          "name": "bronchitis catarrhalis\r",
+          "isCorrect": true
+        },
+        {
+          "name": "cirrhosis miconodularis hepatis\r",
+          "isCorrect": false
+        },
+        {
+          "name": "anasarca \r",
+          "isCorrect": true
+        },
+        {
+          "name": "gastoenterocolitis catarrhalis\r",
+          "isCorrect": true
+        },
+        {
+          "name": "induratio renum\r",
+          "isCorrect": true
+        },
+        {
+          "name": "dilatatio ventriculi dextri cordis\r",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "name": "do typowych powikłań pełnościennego zawału sciany lewej komory zalicza się:\r",
+      "answers": [
+        {
+          "name": "haemopericardium\r",
+          "isCorrect": true
+        },
+        {
+          "name": "insufficienta acuta valvae mitralis\r",
+          "isCorrect": true
+        },
+        {
+          "name": "oedema pulmonum\r",
+          "isCorrect": true
+        },
+        {
+          "name": "thrombosis parietalis\r",
+          "isCorrect": true
+        },
+        {
+          "name": "fibrillatio atriorum\r",
+          "isCorrect": false
+        },
+        {
+          "name": "venostasis acuta hepatis\r",
+          "isCorrect": false
+        },
+        {
+          "name": "stenosis acuta valvae semilunaris aortae\r",
+          "isCorrect": false
+        },
+        {
+          "name": "infarctus ruber pulmonis\r",
+          "isCorrect": false
+        },
+        {
+          "name": "laesio myocardii post reperfusionem\r",
+          "isCorrect": true
+        }
+      ]
+    },  
+    {
+      "name": "następstwem pełnościennego zawału ściany lewej komory jest:\r",
+      "answers": [
+        {
+          "name": "calcificatio arteriae loco infarctus\r",
+          "isCorrect": false
+        },
+        {
+          "name": "cicatrix post infarctum\r",
+          "isCorrect": true
+        },
+        {
+          "name": "synechiae cavi pericardii loco infarctus\r",
+          "isCorrect": true
+        },
+        {
+          "name": "atrophia myocardii loco infarctum \r",
+          "isCorrect": false
+        },
+        {
+          "name": "hypertrophia myocardii loco cicatrix\r",
+          "isCorrect": true
+        },
+        {
+          "name": "hydropericardium\r",
+          "isCorrect": false
+        },
+        {
+          "name": "myocarditis gigantocelluaris para infarctum\r",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "name": "do przyczyn ostrej niewydolności prawokomorowej należy m.in.\r",
+      "answers": [
+        {
+          "name": "embolia thrombotica recurvata trunci pulmonalis\r",
+          "isCorrect": true
+        },
+        {
+          "name": "infarctus myocardii\r",
+          "isCorrect": false
+        },
+        {
+          "name": "bronchopneumonia purulenta\r",
+          "isCorrect": false
+        },
+        {
+          "name": "fractura costarum\r",
+          "isCorrect": true
+        },
+        {
+          "name": "emboliae adposae post fracturam femoris\r",
+          "isCorrect": true
+        },
+        {
+          "name": "emphysema pulmonum\r",
+          "isCorrect": false
+        },
+        {
+          "name": "deformatio kyphoscoliotica thoracis\r",
+          "isCorrect": false
+        },
+        {
+          "name": "hypertonia arterialis in decursu phaechromocytomatis\r",
+          "isCorrect": false
+        },
+        {
+          "name": "haemopericardium\r",
+          "isCorrect": true
+        },
+        {
+          "name": "hydropericardium\r",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "name": "wysoce prawdopodobnymi przyczynami metrorrhagii u 35 letniej kobiety mogą być\r",
+      "answers": [
+        {
+          "name": "carcinoma endometriale corporis uteri\r",
+          "isCorrect": false
+        },
+        {
+          "name": "placenta praevia\r",
+          "isCorrect": true
+        },
+        {
+          "name": "leiomyoma corporis uteri\r",
+          "isCorrect": true
+        },
+        {
+          "name": "endometritis\r",
+          "isCorrect": true
+        },
+        {
+          "name": "ablatio placentae praecox\r",
+          "isCorrect": true
+        },
+        {
+          "name": "graviditas extrauterina\r",
+          "isCorrect": true
+        },
+        {
+          "name": "retroflexio uteri\r",
+          "isCorrect": false
+        },
+        {
+          "name": "diathesis haemorhagica/anaemia\r",
+          "isCorrect": false
+        },
+        {
+          "name": "insufficentia cordis dextri chronica\r",
+          "isCorrect": false
+        },
+        {
+          "name": "graviditas cervicalis\r",
+          "isCorrect": true
+        },
+        {
+          "name": "abortus in tractu\r",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "name": "Przykładami inflammationes alterativae seu parenchymatosae są\r",
+      "answers": [
+        {
+          "name": "enteritis ulcerosa typhoidea\r",
+          "isCorrect": false
+        },
+        {
+          "name": "poliomyelits\r",
+          "isCorrect": true
+        },
+        {
+          "name": "myocarditis dipheritica\r",
+          "isCorrect": true
+        },
+        {
+          "name": "hepatitis virusalis\r",
+          "isCorrect": true
+        },
+        {
+          "name": "glomerulonephritis mesangialis\r",
+          "isCorrect": false
+        },
+        {
+          "name": "tracheobronchitis diphteritica\r",
+          "isCorrect": false
+        },
+        {
+          "name": "lymphonodulitis tuberculosa\r",
+          "isCorrect": false
+        },
+        {
+          "name": "condylomata acuminanta\r",
+          "isCorrect": false
+        },
+        {
+          "name": "lymphonodulitis reactiva\r",
+          "isCorrect": false
+        },
+        {
+          "name": "encephalitis rabiosus\r",
+          "isCorrect": true
+        }
+      ]
+    },    
+    {
+      "name": "Przykładami inflammationes productivae seu proliferativae są\r",
+      "answers": [
+        {
+          "name": "enteritis ulcerosa typhoidea\r",
+          "isCorrect": false
+        },
+        {
+          "name": "poliomyelits\r",
+          "isCorrect": false
+        },
+        {
+          "name": "myocarditis dipheritica\r",
+          "isCorrect": false
+        },
+        {
+          "name": "hepatitis virusalis\r",
+          "isCorrect": false
+        },
+        {
+          "name": "glomerulonephritis mesangialis\r",
+          "isCorrect": true
+        },
+        {
+          "name": "tracheobronchitis diphteritica\r",
+          "isCorrect": false
+        },
+        {
+          "name": "lymphonodulitis tuberculosa\r",
+          "isCorrect": true
+        },
+        {
+          "name": "condylomata acuminanta\r",
+          "isCorrect": true
+        },
+        {
+          "name": "lymphonodulitis reactiva\r",
+          "isCorrect": true
+        },
+        {
+          "name": "encephalitis rabiosus\r",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "name": "Przykładami gruźlicy krwiopochodnej są\r",
+      "answers": [
+        {
+          "name": "tubeculosis miliaris pulmonum\r",
+          "isCorrect": true
+        },
+        {
+          "name": "enterocolitis tuberculosa \r",
+          "isCorrect": false
+        },
+        {
+          "name": "gibbus tuberculosus \r",
+          "isCorrect": true
+        },
+        {
+          "name": "caseoma\r",
+          "isCorrect": false
+        },
+        {
+          "name": "tuberculosis acinoso nodosa\r",
+          "isCorrect": false
+        },
+        {
+          "name": "typhobacillosis Landouzy\r",
+          "isCorrect": true
+        },
+        {
+          "name": "pneumonia caseosa\r",
+          "isCorrect": false
+        },
+        {
+          "name": "leptomenigitis tuberculosa\r",
+          "isCorrect": true
+        },
+        {
+          "name": "epidydimitis tuberculosa\r",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "name": "Glomerulonephritis typowo pojawia się w przebiegu\r",
+      "answers": [
+        {
+          "name": "endocarditis lenta (endocardititis polyposa)\r",
+          "isCorrect": true
+        },
+        {
+          "name": "purpura anaphylactoidea  Henoch–Schönlein \r",
+          "isCorrect": true
+        },
+        {
+          "name": "thrombangitis obliterans\r",
+          "isCorrect": false
+        },
+        {
+          "name": "lichen erythematosus\r",
+          "isCorrect": true
+        },
+        {
+          "name": "diabetes inspidus\r",
+          "isCorrect": false
+        },
+        {
+          "name": "granulomatosis Wegener\r",
+          "isCorrect": true
+        },
+        {
+          "name": "diabetes mellitus\r",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "name": "Tzw. zapalenia oportunistyczne (np. w AIDS) są powodowane przez:\r",
+      "answers": [
+        {
+          "name": "Cytomegalovirus\r",
+          "isCorrect": true
+        },
+        {
+          "name": "Yersinia pestis\r",
+          "isCorrect": false
+        },
+        {
+          "name": "Pneumocystis carinii (Pneumocystis jirovecii)\r",
+          "isCorrect": true
+        },
+        {
+          "name": "Candidia albicans\r",
+          "isCorrect": true
+        },
+        {
+          "name": "Aspergillus fumigatus\r",
+          "isCorrect": true
+        },
+        {
+          "name": "Toxoplasma gondi\r",
+          "isCorrect": true
+        },
+        {
+          "name": "Clostridium tetani\r",
+          "isCorrect": false
+        },
+        {
+          "name": "Cryptococcus neoformans\r",
+          "isCorrect": true
+        },
+        {
+          "name": "Corynebacterum spp\r",
+          "isCorrect": false
+        },
+        {
+          "name": "Baccillus anthracis\r",
+          "isCorrect": false
+        },
+        {
+          "name": "Human immunodeficiency virus\r",
+          "isCorrect": false
+        },
+        {
+          "name": "Herpes simplex virus\r",
+          "isCorrect": true
+        },
+        {
+          "name": "Histoplasma capsulatum\r",
+          "isCorrect": true
+        },
+        {
+          "name": "Crytosporidium parvum\r",
+          "isCorrect": true
+        },
+        {
+          "name": "Mycoplasma pneumoniae\r",
+          "isCorrect": true
+        },
+        {
+          "name": "Mycobacterium leprae\r",
+          "isCorrect": false
+        },
+        {
+          "name": "Clostridium perfringens\r",
+          "isCorrect": false
+        }
+      ]
+    },    
+    {
+      "name": "Szczyt zachorowalności następujących nowotworów występuje w wieku dziecięcym\r",
+      "answers": [
+        {
+          "name": "nephroblastoma\r",
+          "isCorrect": true
+        },
+        {
+          "name": "neuroblastoma\r",
+          "isCorrect": true
+        },
+        {
+          "name": "leucaemia chronica granulocytica\r",
+          "isCorrect": false
+        },
+        {
+          "name": "leucaemia acuta lymphoblastica\r",
+          "isCorrect": true
+        },
+        {
+          "name": "Leucaemia acuta myelocytica \r",
+          "isCorrect": false
+        },
+        {
+          "name": "lymphogranulomatosis maligna\r",
+          "isCorrect": false
+        },
+        {
+          "name": "lymphoma lymphocyticum\r",
+          "isCorrect": false
+        },
+        {
+          "name": "lymphoma malignum Burkitt\r",
+          "isCorrect": true
+        },
+        {
+          "name": "plasmocytoma\r",
+          "isCorrect": false
+        },
+        {
+          "name": "retinoblastoma\r",
+          "isCorrect": true
+        },
+        {
+          "name": "rhabdomyosarcoma botryoides\r",
+          "isCorrect": true
+        },
+        {
+          "name": "carcinoma embryonale testis\r",
+          "isCorrect": false
+        },
+        {
+          "name": "haemangioendothelioma\r",
+          "isCorrect": true
+        },
+        {
+          "name": "sarcoma Ewing\r",
+          "isCorrect": true
+        },
+        {
+          "name": "seminoma\r",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "name": "cirrhosis to określenie używane w odniesieniu do:\r",
+      "answers": [
+        {
+          "name": "skutków przewlekłych chorób zapalnych płuc\r",
+          "isCorrect": true
+        },
+        {
+          "name": "przewlekłych zapaleń stercza\r",
+          "isCorrect": false
+        },
+        {
+          "name": "obrazu morfologicznego nerek w przebiegu zmian naczyniowych \r",
+          "isCorrect": true
+        },
+        {
+          "name": "zmian pozapalnych w trzustce\r",
+          "isCorrect": false
+        },
+        {
+          "name": "zmian zastoinowych w wątrobie\r",
+          "isCorrect": true
+        },
+        {
+          "name": "zejściowego stanu nerek po kłębuszkowym zapaleniu\r",
+          "isCorrect": true
+        },
+        {
+          "name": "przewlekłych zmian zapalnych w wątrobie\r",
+          "isCorrect": true
+        },
+        {
+          "name": "zawansowanych zmian zastoinowych w nerkach\r",
+          "isCorrect": false
+        },
+        {
+          "name": "zmian w śledzionie w przebiegu nadciśnienia wrotnego\r",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "name": "siedliskiem tuberculosis primaria może być:\r",
+      "answers": [
+        {
+          "name": "jelito cienkie\r",
+          "isCorrect": true
+        },
+        {
+          "name": "żołądek\r",
+          "isCorrect": false
+        },
+        {
+          "name": "płuco\r",
+          "isCorrect": true
+        },
+        {
+          "name": "migdałki\r",
+          "isCorrect": true
+        },
+        {
+          "name": "tchawica\r",
+          "isCorrect": false
+        },
+        {
+          "name": "łożysko\r",
+          "isCorrect": true
+        },
+        {
+          "name": "przełyk\r",
+          "isCorrect": false
+        },
+        {
+          "name": "pochwa\r",
+          "isCorrect": false
+        },
+        {
+          "name": "cewka moczowa\r",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "name": "Cechami charakterystycznymi obrazu morfologicznego zmian w sarcoidosis są:\r",
+      "answers": [
+        {
+          "name": "guzkowo -ziarniakowy charakter\r",
+          "isCorrect": true
+        },
+        {
+          "name": "lokalizacja zwłaszcza w węzłach chłonnych\r",
+          "isCorrect": true
+        },
+        {
+          "name": "lokalizacja m.in. w śledzionie\r",
+          "isCorrect": true
+        },
+        {
+          "name": "częsta obecność zmian w skórze\r",
+          "isCorrect": true
+        },
+        {
+          "name": "obecność komórek wielojądrowych w nacieku zapalnym\r",
+          "isCorrect": true
+        },
+        {
+          "name": "obecność martwicy  serowatej w obrębie zmian\r",
+          "isCorrect": false
+        },
+        {
+          "name": "obecność pasa limfocytów\r",
+          "isCorrect": true
+        },
+        {
+          "name": "intensywne włóknienie zmian\r",
+          "isCorrect": true
+        },
+        {
+          "name": "obecność granulocytów kwasochłonnych w nacieku\r",
+          "isCorrect": false
+        },
+        {
+          "name": "rozlany charakter nacieku w płucach symulujących płatowe zapalenie płuc\r",
+          "isCorrect": false
+        }
+      ]
+    },    
+    {
+      "name": "W odniesieniu do zmiany określanej nazwą \"Tumor phyllodes\" prawdziwe jest \r",
+      "answers": [
+        {
+          "name": "pojawia się on wyłącznie w sutku\r",
+          "isCorrect": true
+        },
+        {
+          "name": "pojawia się on w sutku, macicy i jajniku\r",
+          "isCorrect": false
+        },
+        {
+          "name": "rośnie do bardzo dużych rozmiarów\r",
+          "isCorrect": true
+        },
+        {
+          "name": "szybko pojawiają się przerzuty\r",
+          "isCorrect": false
+        },
+        {
+          "name": "rozwija się na podłożu fibroadenoma\r",
+          "isCorrect": true
+        },
+        {
+          "name": "guz dotyczy młodych kobiet\r",
+          "isCorrect": false
+        },
+        {
+          "name": "zezłośliwienie guza najczęściej związane jest z atypią podścieliska\r",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "name": "Do objawów atypii komórkowej należy:\r",
+      "answers": [
+        {
+          "name": "heterocytosis\r",
+          "isCorrect": true
+        },
+        {
+          "name": "macronucleosis\r",
+          "isCorrect": true
+        },
+        {
+          "name": "metaplasia\r",
+          "isCorrect": false
+        },
+        {
+          "name": "hypernucleosis\r",
+          "isCorrect": true
+        },
+        {
+          "name": "dyskariosis\r",
+          "isCorrect": true
+        },
+        {
+          "name": "hypernucleolosis\r",
+          "isCorrect": true
+        },
+        {
+          "name": "polynucleolosis\r",
+          "isCorrect": true
+        },
+        {
+          "name": "marginatio chromatini\r",
+          "isCorrect": true
+        },
+        {
+          "name": "pycnosis\r",
+          "isCorrect": false
+        },
+        {
+          "name": "polynucleosis\r",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "name": "Do nowotworów często dajacych wznowy miejscowe, ale nie powodujących przerzutów (tzw. \"półzłośliwych\") należą:\r",
+      "answers": [
+        {
+          "name": "desmoid \r",
+          "isCorrect": true
+        },
+        {
+          "name": "dermatofibrosarcoma protuberans \r",
+          "isCorrect": true
+        },
+        {
+          "name": "liposarcoma telae subcutaneae\r",
+          "isCorrect": false
+        },
+        {
+          "name": "adenoma pleomorphum glandulae salivariae\r",
+          "isCorrect": true
+        },
+        {
+          "name": "carcinoma basocellulare cutis\r",
+          "isCorrect": true
+        },
+        {
+          "name": "glomangioma \r",
+          "isCorrect": false
+        },
+        {
+          "name": "cystadenoma papillare lymphomatosum Warthin glandulae salivariae\r",
+          "isCorrect": false
+        },
+        {
+          "name": "carcinoidum processus vermiformis\r",
+          "isCorrect": false
+        },
+        {
+          "name": "naevus pigmentosus dermalis\r",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "name": "przy ocenie histologicznej złośliwości (tzw. \"gradingu\") wg Blooma i Richardsona uwzględnia się\r",
+      "answers": [
+        {
+          "name": "głębokość naciekania nowotworu\r",
+          "isCorrect": false
+        },
+        {
+          "name": "stopień zatarcia typowej histoarchitektoniki narządu\r",
+          "isCorrect": true
+        },
+        {
+          "name": "indeks mitotyczny lub liczba figur podziałowych w polu widzenia\r",
+          "isCorrect": true
+        },
+        {
+          "name": "wielkość owrzodzenia\r",
+          "isCorrect": false
+        },
+        {
+          "name": "nasilenie desmoplazji\r",
+          "isCorrect": false
+        },
+        {
+          "name": "nasilenie polimorfizmu komórkowego i jądrowego\r",
+          "isCorrect": true
+        },
+        {
+          "name": "nasilenie odczynu zapalnego w otoczeniu\r",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "name": "najbardziej polecanym sposobem utrwalania rozmazów do celów diagnostyki cytologicznej jest\r",
+      "answers": [
+        {
+          "name": "utrwalenie w 4% roztworze formaldehydu\r",
+          "isCorrect": false
+        },
+        {
+          "name": "utrwalenie w 10% roztworze formaldehydu\r",
+          "isCorrect": false
+        },
+        {
+          "name": "utrwalenie w 50% roztworze etanolu\r",
+          "isCorrect": false
+        },
+        {
+          "name": "utrwalenie w 70% roztworze etanolu\r",
+          "isCorrect": true
+        },
+        {
+          "name": "utrwalenie w 96 % roztworze etanolu\r",
+          "isCorrect": false
+        },
+        {
+          "name": "wysuszenie preparatu\r",
+          "isCorrect": false
+        }
+      ]
+    },    
+    {
+      "name": "najbardziej polecanym sposobem utrwalania oligobioptatów dla celów diagnostyki histopatologicznej jest\r",
+      "answers": [
+        {
+          "name": "utrwalenie w 4% roztworze formaldehydu\r",
+          "isCorrect": true
+        },
+        {
+          "name": "utrwalenie w 10% roztworze formaldehydu\r",
+          "isCorrect": false
+        },
+        {
+          "name": "utrwalenie w 50% roztworze etanolu\r",
+          "isCorrect": false
+        },
+        {
+          "name": "utrwalenie w 70% roztworze etanolu\r",
+          "isCorrect": false
+        },
+        {
+          "name": "utrwalenie w 96 % roztworze etanolu\r",
+          "isCorrect": false
+        },
+        {
+          "name": "utrwalenie w odczynniku Schiffa\r",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "name": "Przyczynami żółtaczek w których dochodzi do odbarwienia stolca,  barwy moczu \"ciemnego piwa\" i zwiększenia bilirubiny związanej i kwasów żółciowych we krwi są\r",
+      "answers": [
+        {
+          "name": "sferocytoza\r",
+          "isCorrect": false
+        },
+        {
+          "name": "rak brodawki Vatera\r",
+          "isCorrect": true
+        },
+        {
+          "name": "choroba Wilsona\r",
+          "isCorrect": false
+        },
+        {
+          "name": "cirrhosis hepatis\r",
+          "isCorrect": true
+        },
+        {
+          "name": "jady niektórych węży\r",
+          "isCorrect": false
+        },
+        {
+          "name": "wrodzony niedobór transferazy glukuranionowej\r",
+          "isCorrect": false
+        },
+        {
+          "name": "kamień w przewodzie pęcherzykowym\r",
+          "isCorrect": false
+        },
+        {
+          "name": "kamień w przewodzie żółciowym wspólnym\r",
+          "isCorrect": true
+        },
+        {
+          "name": "cholangitis sclerosans\r",
+          "isCorrect": true
+        },
+        {
+          "name": "zatrucia grzybami\r",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "name": "Do objawów nadciśnienia wrotnego należą\r",
+      "answers": [
+        {
+          "name": "anasarca\r",
+          "isCorrect": false
+        },
+        {
+          "name": "ascites\r",
+          "isCorrect": true
+        },
+        {
+          "name": "varices oesophagi\r",
+          "isCorrect": true
+        },
+        {
+          "name": "gastroenterocolitis catharalis\r",
+          "isCorrect": true
+        },
+        {
+          "name": "induratio renum\r",
+          "isCorrect": false
+        },
+        {
+          "name": "induratio lienis\r",
+          "isCorrect": true
+        },
+        {
+          "name": "fibrosis pancreatis\r",
+          "isCorrect": false
+        },
+        {
+          "name": "caput succedaneum\r",
+          "isCorrect": false
+        },
+        {
+          "name": "varices haemorrhoidales\r",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "name": "W przebiegu typhus abdominalis lub jako charakterystyczne powikłanie tej choroby może wystąpić\r",
+      "answers": [
+        {
+          "name": "enterocolitis catarrhalis\r",
+          "isCorrect": false
+        },
+        {
+          "name": "enteritis ulcerosa\r",
+          "isCorrect": true
+        },
+        {
+          "name": "enteritis fibrinosa\r",
+          "isCorrect": true
+        },
+        {
+          "name": "enteritis escharotica\r",
+          "isCorrect": true
+        },
+        {
+          "name": "osteitis\r",
+          "isCorrect": true
+        },
+        {
+          "name": "ruptura lienis\r",
+          "isCorrect": true
+        },
+        {
+          "name": "gastritis ulcerosa\r",
+          "isCorrect": false
+        },
+        {
+          "name": "perforatio intestini\r",
+          "isCorrect": true
+        }
+      ]
+    },   
+    {
+      "name": "aneuploidia w onkopatologii \r",
+      "answers": [
+        {
+          "name": "jest wykładnikiem wysokiej dojrzałości nowotworu\r",
+          "isCorrect": false
+        },
+        {
+          "name": "jest wykładnikiem niskiej dojrzałości nowotworu\r",
+          "isCorrect": true
+        },
+        {
+          "name": "oznacza duże zróżnicowanie ilości DNA w komórkach\r",
+          "isCorrect": true
+        },
+        {
+          "name": "oznacza zwiększoną ilość DNA w komórkach\r",
+          "isCorrect": false
+        },
+        {
+          "name": "duże zróżnicowanie wielkości jąder\r",
+          "isCorrect": false
+        },
+        {
+          "name": "oznacza dużą gęstość komórkową guza\r",
+          "isCorrect": false
+        },
+        {
+          "name": "oznacza duże zróżnicowanie wielkości jąder guza\r",
+          "isCorrect": false
+        },
+        {
+          "name": "oznacza duże zróżnicowanie gęstości komórkowej guza\r",
+          "isCorrect": false
+        },
+        {
+          "name": "jest wyznaczana na podstawie średniej arytmetycznej z pomiarów\r",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "name": "wykładnikiem morfologicznym wysokiej dojrzałości raków urotelialnych jest\r",
+      "answers": [
+        {
+          "name": "wydzielanie śluzu kwaśnego\r",
+          "isCorrect": false
+        },
+        {
+          "name": "wydzielanie śluzu obojętnego\r",
+          "isCorrect": false
+        },
+        {
+          "name": "tworzenie rozrostów brodaweczkowtcyh\r",
+          "isCorrect": true
+        },
+        {
+          "name": "tworzenie struktur torbielkowatych\r",
+          "isCorrect": false
+        },
+        {
+          "name": "tworzenie tzw. pereł nowotworowych\r",
+          "isCorrect": false
+        },
+        {
+          "name": "wytwarzanie mostków międzykomórkowych\r",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "name": "do typowych nowotworów pierwotnych płuc należą\r",
+      "answers": [
+        {
+          "name": "carcinoidum\r",
+          "isCorrect": true
+        },
+        {
+          "name": "carcinoma planoepitheliale\r",
+          "isCorrect": true
+        },
+        {
+          "name": "carcinoma microcellulare\r",
+          "isCorrect": true
+        },
+        {
+          "name": "carcinoma ductale\r",
+          "isCorrect": false
+        },
+        {
+          "name": "adenocarcinoma\r",
+          "isCorrect": true
+        },
+        {
+          "name": "carcinoma lobulare\r",
+          "isCorrect": false
+        },
+        {
+          "name": "comedocarcinoma\r",
+          "isCorrect": false
+        },
+        {
+          "name": "hamartoma chondromatosum\r",
+          "isCorrect": true
+        },
+        {
+          "name": "lymphoepithelioma\r",
+          "isCorrect": false
+        },
+        {
+          "name": "fibroadenoma\r",
+          "isCorrect": false
+        },
+        {
+          "name": "cystadenocarcinoma\r",
+          "isCorrect": false
+        },
+        {
+          "name": "carcinoma neuroendocrinale\r",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "name": "do typowych nowotworów pierwotnych sutka należą\r",
+      "answers": [
+        {
+          "name": "carcinoidum\r",
+          "isCorrect": false
+        },
+        {
+          "name": "carcinoma planoepitheliale\r",
+          "isCorrect": false
+        },
+        {
+          "name": "carcinoma microcellulare\r",
+          "isCorrect": false
+        },
+        {
+          "name": "carcinoma ductale\r",
+          "isCorrect": true
+        },
+        {
+          "name": "adenocarcinoma\r",
+          "isCorrect": false
+        },
+        {
+          "name": "carcinoma lobulare\r",
+          "isCorrect": true
+        },
+        {
+          "name": "comedocarcinoma\r",
+          "isCorrect": true
+        },
+        {
+          "name": "hamartoma chondromatosum\r",
+          "isCorrect": false
+        },
+        {
+          "name": "lymphoepithelioma\r",
+          "isCorrect": false
+        },
+        {
+          "name": "fibroadenoma\r",
+          "isCorrect": true
+        },
+        {
+          "name": "cystadenocarcinoma\r",
+          "isCorrect": false
+        }
+      ]
+    },   
+    {
+      "name": "Granulocyty obojętnochłonne w nacieku zapalnym\r",
+      "answers": [
+        {
+          "name": "fagocytują bakterie\r",
+          "isCorrect": true
+        },
+        {
+          "name": "uwalniają kolagenazę \r",
+          "isCorrect": true
+        },
+        {
+          "name": "są charakterystycznym składnikiem nacieku w zapaleniach przewlekłych\r",
+          "isCorrect": false
+        },
+        {
+          "name": "są charakterystycznym składnikiem nacieku w zapaleniach ostrych\r",
+          "isCorrect": true
+        },
+        {
+          "name": "fagocytują kompleksy immunologiczne\r",
+          "isCorrect": true
+        },
+        {
+          "name": "prezentują antygeny w węźle chłonnym\r",
+          "isCorrect": false
+        },
+        {
+          "name": "namnażają się w miejscu zapalenia\r",
+          "isCorrect": false
+        },
+        {
+          "name": "są charakterystycznym składnikiem nacieku w zapaleniach wirusowych\r",
+          "isCorrect": false
+        },
+        {
+          "name": "uwalniają trypsynę\r",
+          "isCorrect": true
+        },
+        {
+          "name": "ulegają tzw. degranulacji\r",
+          "isCorrect": true
+        },
+        {
+          "name": "powodują hydrolizę białek chrząstek\r",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "name": "Panaritium to\r",
+      "answers": [
+        {
+          "name": "rodzaj ropnia\r",
+          "isCorrect": false
+        },
+        {
+          "name": "rodzaj zapalenia powierzchownego\r",
+          "isCorrect": false
+        },
+        {
+          "name": "rodzaj zapalenia zgorzelinowego\r",
+          "isCorrect": false
+        },
+        {
+          "name": "zapalenie łożyska paznokcia\r",
+          "isCorrect": false
+        },
+        {
+          "name": "zapalenie opuszki palca\r",
+          "isCorrect": true
+        },
+        {
+          "name": "rodzaj ropowicy\r",
+          "isCorrect": true
+        },
+        {
+          "name": "zapalenie które może dotyczyć kości\r",
+          "isCorrect": true
+        },
+        {
+          "name": "zapalenie najczęściej jest powodowane przez paciorkowce\r",
+          "isCorrect": true
+        },
+        {
+          "name": "zapalenie dłoni, najwolniej szerzące się  w kciuku i palcu małym\r",
+          "isCorrect": false
+        },
+        {
+          "name": "zapalenie dłoni, najszybciej szerzące się  w kciuku i palcu małym\r",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "name": "Expansio (proliferatio)  neoplasmatis to proces który może się odbywać następującymi sposobami: \r",
+      "answers": [
+        {
+          "name": "per continuationem\r",
+          "isCorrect": true
+        },
+        {
+          "name": "per inpressionem\r",
+          "isCorrect": true
+        },
+        {
+          "name": "per rhexin\r",
+          "isCorrect": false
+        },
+        {
+          "name": "per metasatases\r",
+          "isCorrect": true
+        },
+        {
+          "name": "per diabrosin\r",
+          "isCorrect": false
+        },
+        {
+          "name": "per contaguitationem\r",
+          "isCorrect": true
+        },
+        {
+          "name": "per autoinoculationem\r",
+          "isCorrect": true
+        },
+        {
+          "name": "per infiltrationem\r",
+          "isCorrect": true
+        },
+        {
+          "name": "per compressionem\r",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "name": "Prawdziwe są stwierdzenia o zapaleniu wątroby spowodowanym przez wirusa C \r",
+      "answers": [
+        {
+          "name": "typowym obrazem histopatologicznym jest hepatitis chronica lobularis \r",
+          "isCorrect": true
+        },
+        {
+          "name": "typowym obrazem histopatologicznym jest hepatitis viralis acuta cholestatica \r",
+          "isCorrect": false
+        },
+        {
+          "name": "do częstych powikłań (~50%) należy marskość wątroby\r",
+          "isCorrect": true
+        },
+        {
+          "name": "do zakażenia dochodzi drogą pokarmową\r",
+          "isCorrect": false
+        },
+        {
+          "name": "do zakażenia dochodzi drogą parenteralna\r",
+          "isCorrect": true
+        },
+        {
+          "name": "czynnikiem etiologicznym jest  picornavirus\r",
+          "isCorrect": false
+        },
+        {
+          "name": "czynnikiem etiologiczny jest wirus z grupy flaviviridae\r",
+          "isCorrect": true
+        },
+        {
+          "name": "okres inkubacji wynosi do 45 dni\r",
+          "isCorrect": false
+        },
+        {
+          "name": "typowo przebiega jako ostre wirusowe zapalenie wątroby, przechodzące w przewlekłe zapalenie wątroby\r",
+          "isCorrect": false
+        }
+      ]
+    },    
+    {
+      "name": "Do typowych następstw marskości wątroby należy\r",
+      "answers": [
+        {
+          "name": "ascites\r",
+          "isCorrect": true
+        },
+        {
+          "name": "nieżyt zastoinowy żołądka i jelit\r",
+          "isCorrect": true
+        },
+        {
+          "name": "hipoproteinemia\r",
+          "isCorrect": true
+        },
+        {
+          "name": "Encefalopatia i śpiączka\r",
+          "isCorrect": true
+        },
+        {
+          "name": "skaza krwotoczna płytkowa\r",
+          "isCorrect": false
+        },
+        {
+          "name": "hiperaldosteronizm wtórny \r",
+          "isCorrect": true
+        },
+        {
+          "name": "varices oesophagii\r",
+          "isCorrect": true
+        },
+        {
+          "name": "varices membrorum inferiorum\r",
+          "isCorrect": false
+        },
+        {
+          "name": "chromanie przestankowe\r",
+          "isCorrect": false
+        },
+        {
+          "name": "ginekomastia\r",
+          "isCorrect": true
+        },
+        {
+          "name": "splenomegalia\r",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "name": "Do typowych i częstych przyczyn zawału mięśnia sercowego należy\r",
+      "answers": [
+        {
+          "name": "krwiak blaszki miażdżycowej\r",
+          "isCorrect": true
+        },
+        {
+          "name": "pękniecie blaszki miażdżycowej\r",
+          "isCorrect": true
+        },
+        {
+          "name": "zakrzepica przyścienna w tętnicy wieńcowej\r",
+          "isCorrect": true
+        },
+        {
+          "name": "zakrzep kulisty w tętnicy wieńcowej\r",
+          "isCorrect": false
+        },
+        {
+          "name": "zator skrzeplinowy tętnicy wieńcowej\r",
+          "isCorrect": false
+        },
+        {
+          "name": "zator z komórek nowotworowych w tętnicy wieńcowej\r",
+          "isCorrect": false
+        },
+        {
+          "name": "zator bakteryjny w tętnicy wieńcowej\r",
+          "isCorrect": false
+        },
+        {
+          "name": "guzkowe zapalenie tętnicy wieńcowej\r",
+          "isCorrect": false
+        },
+        {
+          "name": "skurcz tętnicy wieńcowej\r",
+          "isCorrect": false
+        },
+        {
+          "name": "kiła sercowo-naczyniowa\r",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "name": "Zawał podwsierdziowy mięśnia sercowego\r",
+      "answers": [
+        {
+          "name": "Powstaje typowo w przebiegu miażdżycy trójgałęziowej\r",
+          "isCorrect": true
+        },
+        {
+          "name": "Powstaje typowo w przebiegu miażdżycy jednogałęziowej\r",
+          "isCorrect": false
+        },
+        {
+          "name": "dotyczy raczej młodszych grup wiekowych\r",
+          "isCorrect": false
+        },
+        {
+          "name": "zwykle jest następstwem pęknięcia blaszki miażdżycowej\r",
+          "isCorrect": false
+        },
+        {
+          "name": "zwykle u chorych dochodzi do powikłania pod postacią pericarditis epistenocardiaca\r",
+          "isCorrect": false
+        },
+        {
+          "name": "często współistnieje z udarami mózgu\r",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "name": "Odczyn immunohistochemiczny wykonywany w skrawku tkankowym może służyć oznaczeniu\r",
+      "answers": [
+        {
+          "name": "ploidii\r",
+          "isCorrect": false
+        },
+        {
+          "name": "nasilenia nacieku zapalnemu\r",
+          "isCorrect": false
+        },
+        {
+          "name": "indeksów proliferacyjnych w nowotworach\r",
+          "isCorrect": true
+        },
+        {
+          "name": "wirusów w wirusowym zapaleniu wątroby\r",
+          "isCorrect": false
+        },
+        {
+          "name": "składu limfocytów w węzłach chłonnych\r",
+          "isCorrect": true
+        },
+        {
+          "name": "odróżnieniu rozrostu rakowego i mięsakowego\r",
+          "isCorrect": true
+        },
+        {
+          "name": "antygenów tkankowych/komórkowych\r",
+          "isCorrect": true
+        },
+        {
+          "name": "przeciwciał krążących we krwi\r",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "name": "Prawdziwe są następujące stwierdzenia w odniesieniu do białka Rb\r",
+      "answers": [
+        {
+          "name": "zapobiega przejściu komórki z uszkodzonym DNA w fazę S\r",
+          "isCorrect": true
+        },
+        {
+          "name": "kodowane jest przez gen supresorowy\r",
+          "isCorrect": true
+        },
+        {
+          "name": "onkoproteiny wirusów powodują zmiany genu kodującego Rb\r",
+          "isCorrect": false
+        },
+        {
+          "name": "onkogenne działanie wirusów polega na wiązaniu białka Rb przez ich onkoproteiny\r",
+          "isCorrect": true
+        },
+        {
+          "name": "aktywacja białka  polega na defosforylacji białka w fazie M\r",
+          "isCorrect": true
+        },
+        {
+          "name": "białko to indukuje apoptozę komórki z nieprawidłowym DNA (\"cenzor genomu\")\r",
+          "isCorrect": false
+        }
+      ]
+    },    
+    {
+      "name": "Makrofagi\r",
+      "answers": [
+        {
+          "name": "wydzielają czynnik chemotaktyczny dla limfocytów\r",
+          "isCorrect": true
+        },
+        {
+          "name": "wydzielają czynnik chemotaktyczny dla granulocytów obojętnochłonnych\r",
+          "isCorrect": false
+        },
+        {
+          "name": "fagocytuja ciała obce\r",
+          "isCorrect": true
+        },
+        {
+          "name": "ulegają podziałom w ognisku zapalnym\r",
+          "isCorrect": true
+        },
+        {
+          "name": "maksymalny napływ do ogniska zapalenia następuje w fazie ostrej\r",
+          "isCorrect": false
+        },
+        {
+          "name": "wydzielają lizozym\r",
+          "isCorrect": false
+        },
+        {
+          "name": "prekursorami makrofagów są m.in.. monocyty\r",
+          "isCorrect": true
+        },
+        {
+          "name": "ich zadaniem jest prezentacja antygenu w węzłach chłonnych\r",
+          "isCorrect": true
+        },
+        {
+          "name": "są głównym składnikiem reakcji ziarniniakowej\r",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "name": "Przemijająca niezwłoczna reakcja naczyniowa w zapaleniu\r",
+      "answers": [
+        {
+          "name": "jest skutkiem oddziaływania histaminy\r",
+          "isCorrect": true
+        },
+        {
+          "name": "polega na obkurczeniu śródbłonków\r",
+          "isCorrect": true
+        },
+        {
+          "name": "polega na martwicy ścian włośniczek\r",
+          "isCorrect": false
+        },
+        {
+          "name": "jest charakterystyczna po napromienieniu promieniowaniem jonizującym\r",
+          "isCorrect": false
+        },
+        {
+          "name": "pojawia się w oparzeniach\r",
+          "isCorrect": false
+        },
+        {
+          "name": "ustępuje po ok 30-60 min\r",
+          "isCorrect": true
+        },
+        {
+          "name": "jest charakterystyczną reakcją na toksyny bakteryjne\r",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}

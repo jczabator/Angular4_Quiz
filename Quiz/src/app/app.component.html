@@ -1,3 +1,45 @@
-<h1>
-  {{title}}
-</h1>
+<button (click)="getNewQuestion()">Nowe pytanie</button>
+<button (click)="check()">Sprawdź</button>
+ Pytanie:
+<input type="text" [(ngModel)]="questionIndex"/>
+<div *ngFor="let question of questions">
+  <div *ngIf="questions[questionIndex].name === question.name">
+    <p>{{question.name}}</p>
+    <ul>
+      <li *ngFor="let answer of question.answers | shuffle" (click)="markQuestion(answer.name)">
+        <div *ngIf="isSelected(answer.name)">
+          <p>
+            <font [ngStyle]="{'font-style': style, color: 'Blue', 'font-size': size, 'font-weight': weight}">
+              {{answer.name}}
+            </font>
+          </p>
+        </div>
+        <div *ngIf="!isSelected(answer.name)">
+          <p>{{answer.name}}</p>
+        </div>
+      </li>
+    </ul>
+  </div>
+</div>
+<br/>
+<div *ngIf="isCheckMode === true">
+  <div *ngFor="let question of questions">
+    <div *ngIf="questions[questionIndex].name === question.name">
+      <p>Poprawne odpowiedzi:</p>
+      <ul>
+        <li *ngFor="let answer of question.answers">
+          <div *ngIf="answer.isCorrect === true">
+            <p>
+              <font [ngStyle]="{'font-style': style, color: 'Green', 'font-size': size, 'font-weight': weight}">
+                {{answer.name}}
+              </font>
+            </p>
+          </div>
+          <div *ngIf="answer.isCorrect === false">
+            <p>{{answer.name}}</p>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
